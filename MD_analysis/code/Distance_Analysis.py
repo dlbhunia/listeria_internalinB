@@ -15,7 +15,9 @@ import matplotlib.pyplot as plt
 
 # In[READ AND CLEAN THE DATA]
 
+# known simulation time from the original
 simulation_total_time = 208 #ns
+# number of frames that is opened in Chimera
 frames = 6403
 
 # Read in the File that was generated from the Chimera Analysis
@@ -207,7 +209,9 @@ df1['otherSMA'] = other.rolling(10).mean()
 normDF = pd.DataFrame()
 
 # lenght of chain being analyzed and count of amino acid / amino acid types
+# length of the B and C chains together
 chain_length = 818
+# count of Arg in B and C chain. Other counts are simliarly indicated. Phobic is sum of hydrophobic. Other is from the "other" category above
 ARG = 90
 LYS = 68
 ASP = 58
