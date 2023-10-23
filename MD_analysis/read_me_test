@@ -1,0 +1,60 @@
+This folder contains the required information to analyze the ClusPRO results in the same manner as described in (Liu et al., 2023). 
+When you run the code in this file using UCSF Chimera and your preferred IDE (Spyder through Anaconda in this case), you should end up with a file that contains the number of times each LAP amino acid appears within 5Å of internalin. The number in these files is the number of models where that amino acid was interacting. The processed files do have some unnecessary lines, such as the names of files, but these do not impact the frequencies of the amino acids found. This was used as part of the investigation as to which amino acids might be the most influential when LAP and internalin interact. 
+Contents:
+1)	Read_me.docx
+  a.	This document with instructions on using the contents of this folder 
+2)	code
+  a.	close_residues.py
+    i.	Code file to be run through UCSF Chimera. This code identifies LAP amino acids with 5Å of the internalin protein.
+    b.	Value_counts_example.py
+    i.	Python file to be run in your preferred IDE (in this case Spyder using Anaconda). 
+    ii.	Analyzes the results from close_residues.py and identifies frequencies of interaction
+3)	example_data
+  a.	This folder contains 30 .pdb files that came from ClusPRO. These are the files that get analyzed using close_residues.py
+4)	example_output
+  a.	close.csv
+    i.	example of the results that come from running close_residues.py
+  b.	close_processed.csv
+    i.	example of what is exported from running Value_counts_example.py
+
+To use this file:
+1)	Install required software
+  a.	Chimera 
+    i.	UCSF Chimera, version 1.15 was used in this project. This version is no longer supported by UCSF Chimera, which may lead to the analysis breaking if run on newer versions. This is especially true of analyzing files using Chimera X. 
+    ii.	https://www.cgl.ucsf.edu/chimera/
+  b.	Python
+    i.	Install Python. This was written in Python 3.8.12
+    ii.	https://www.python.org/
+  c.	Anaconda
+    i.	Install Anaconda. This was written in Anaconda 22.9.0.
+    ii.	https://anaconda.org/
+  d.	Spyder
+    i.	Install Spyder through the Anaconda platform. This was written using Spyder 5.2.1.
+  e.	Libraries
+    i.	It is recommended that you create a virtual environment in Anaconda before conducting any analysis. In the new environment, install pandas and Matplotlib. 
+    ii.	Pandas version 1.3.5
+    iii.	Install pandas
+      >>> conda install pandas
+    iv.	Install matplotlib 3.5.1
+      >>> conda install matplotlib
+2)	Find the amino acids from LAP within 5Å of internalin for each .pdb file in the example data
+  a.	Ensure that the code, example_data, and example output are in locations that you can find on your computer.
+  b.	Open Anaconda
+  c.	Open Spyder
+  d.	Open close_residues.py
+  e.	Change the line that says “outf = open(PATH\TO\close.csv','w')” to the location where you want your data to be exported
+  f.	Change the line that says “os.chdir(PATH\TO\example_data')” to the location where your example_data is stored.
+  g.	Open UCSF Chimera
+  h.	In the command bar type “open” and press enter
+  i.	Browse to the location where you have saved close_residues.py
+  j.	Run the program. This will take a minute or so, depending on how many .pdb files are in the data folder. 
+  k.	This will generate a file in the location where you specified your outputs to go. 
+3)	Analyze the output file
+  a.	Ensure that the code, example_data, and example output are in locations that you can find on your computer.
+  b.	Open Anaconda
+  c.	Open Spyder
+  d.	Value_counts_example.py
+  e.	In the section labeled “# In[RUN THE CODE]” change the file paths to the desired locations. 
+  i.	path_in is where the file generated from close_residues.py is located
+ii.	frequency.to_csv should be set to where you want the output files to export. 
+
