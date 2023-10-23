@@ -1,0 +1,377 @@
+,value_counts
+ u'HIS 2335.D',13
+ u'PRO 2333.D',13
+ u'LEU 2381.D',13
+ u'VAL 2380.D',13
+ u'ILE 2336.D',13
+ u'PHE 2181.D',12
+ u'THR 2382.D',12
+ u'ALA 2334.D',12
+ u'VAL 2332.D',11
+ u'GLN 2180.D',11
+ u'PHE 497.A',10
+ u'THR 2330.D',10
+ u'TYR 2183.D',10
+ u'GLY 2177.D',9
+ u'THR 2331.D',9
+ u'PRO 649.A',9
+ u'ARG 2388.D',9
+ u'HIS 651.A',9
+ u'GLY 2383.D',9
+ u'ILE 652.A',9
+ u'THR 647.A',9
+ u'THR 698.A',8
+ u'ASP 2384.D',8
+ u'VAL 2494.D',8
+ u'ARG 704.A',8
+ u'VAL 648.A',8
+ u'LEU 697.A',8
+ u'VAL 696.A',8
+ u'ALA 650.A',8
+ u'GLN 496.A',8
+ u'ASP 2493.D',7
+ u'MET 2178.D',7
+ u'VAL 810.A',7
+ u'TYR 499.A',6
+ u'VAL 2329.D',6
+ u'PRO 2385.D',6
+ u'GLU 2378.D',6
+ u'GLY 493.A',6
+ u'TYR 2328.D',6
+ u'GLY 2495.D',6
+ u'LYS 2492.D',6
+ u'ARG 693.A',5
+ u'GLY 811.A',5
+ u'GLY 699.A',5
+ u'ARG 2377.D',5
+ u'PHE 1247.B',4
+ u'THR 2287.D',4
+ u'THR 646.A',4
+ u'ASP 491.A',4
+ u'ASP 2497.D',4
+ u'ASP 1244.B',4
+ u'ARG 2427.D',4
+ u'LEU 989.B',4
+ u'MET 1248.B',4
+ u'LYS 2182.D',4
+ u'ASP 2175.D',4
+ u'PRO 2176.D',4
+ u'ASP 809.A',4
+ u'LYS 987.B',4
+ u'SER 2379.D',4
+ u'PRO 492.A',3
+ u'THR 995.B',3
+ u'ALA 2338.D',3
+ u'MET 494.A',3
+ u'LYS 808.A',3
+ u'TYR 644.A',3
+ u'MET 1685.D',3
+ u'ASP 700.A',3
+ u'ALA 2.A',3
+ u'THR 653.A',3
+ u'GLU 694.A',3
+ u'GLN 986.B',3
+ u'ASP 1240.B',3
+ u'PHE 982.B',3
+ u'ASP 2339.D',3
+u'THR 2331.D',3
+ u'ARG 743.A',3
+ u'LYS 993.B',3
+ u'MET 1.A',3
+ u'VAL 1261.B',3
+ u'GLN 1258.B',3
+ u'PHE 996.B',3
+ u'PRO 1467.C',2
+ u'VAL 1466.C',2
+ u'ILE 1470.C',2
+ u'LYS 391.A',2
+ u'GLN 390.A',2
+ u'THR 1241.B',2
+ u'VAL 389.A',2
+ u'ALA 1468.C',2
+ u'GLN 1314.C',2
+ u'THR 1471.C',2
+ u'PHE 1315.C',2
+ u'HIS 1469.C',2
+ u'THR 2288.D',2
+ u'LYS 498.A',2
+ u'VAL 1514.C',2
+ u'MET 1312.C',2
+ u'TYR 1462.C',2
+ u'ILE 2496.D',2
+ u'LYS 4.A',2
+ u'ASP 2386.D',2
+ u'ALA 2387.D',2
+ u'PRO 2208.D',2
+ u'PRO 740.A',2
+ u'ASP 813.A',2
+ u'GLY 1311.C',2
+ u'THR 2337.D',2
+ u'TYR 1317.C',2
+ u'THR 1465.C',2
+ u'THR 1464.C',2
+ u'HIS 738.A',2
+ u'ASN 2504.D',2
+ u'LEU 1515.C',2
+ u'PRO 524.A',2
+ u'SER 1589.C',2
+ u'ILE 1687.D',2
+ u'PRO 2472.D',2
+ u'ASP 655.A',2
+ u'ASN 820.A',2
+ u'GLN 819.A',2
+ u'GLY 818.A',2
+ u'GLU 1588.C',2
+ u'VAL 495.A',2
+ u'PHE 981.B',2
+ u'PHE 2471.D',2
+ u'SER 980.B',2
+ u'SER 695.A',2
+ u'PRO 2424.D',2
+ u'ALA 1173.B',2
+ u'HIS 1172.B',2
+ u'TYR 2156.D',2
+ u'PHE 1175.B',2
+ u'LEU 1260.B',2
+ u'ALA 1686.D',2
+ u'ALA 1608.C',2
+ u'SER 1262.B',2
+ u'GLY 2470.D',2
+ u'ASP 990.B',2
+ u'LEU 1174.B',2
+ u'ARG 2467.D',2
+ u'PRO 1259.B',2
+ u'GLU 266.A',2
+ u'GLU 1512.C',2
+ u'THR 1253.B',2
+ u'ILE 1602.C',2
+ u'GLU 388.A',1
+model.004.05.pdb,1
+model.004.09.pdb,1
+model.004.04.pdb,1
+ u'ARG 1522.C',1
+ u'GLY 1517.C',1
+ u'ASP 1518.C',1
+u'THR 1516.C',1
+model.004.03.pdb,1
+u'THR 2382.D',1
+u'GLU 694.A',1
+model.004.02.pdb,1
+ u'HIS 1556.C',1
+ u'ASP 825.A',1
+model.004.06.pdb,1
+u'SER 2379.D',1
+model.004.07.pdb,1
+u'ARG 1245.B',1
+ u'ALA 654.A',1
+model.004.08.pdb,1
+u'LYS 1171.B',1
+ u'LYS 1265.B',1
+ u'LYS 471.A',1
+ u'ASN 1031.B',1
+model.004.01.pdb,1
+u'MET 494.A',1
+ u'ASN 921.B',1
+u'THR 2288.D',1
+ u'ARG 894.B',1
+ u'ALA 1472.C',1
+ u'ASP 1234.B',1
+ u'GLU 270.A',1
+ u'GLU 893.B',1
+ u'ASP 1627.C',1
+ u'VAL 1628.C',1
+ u'GLY 1629.C',1
+ u'ASP 949.B',1
+ u'LYS 951.B',1
+ u'ARG 1511.C',1
+ u'LYS 232.A',1
+ u'THR 1516.C',1
+ u'GLU 2478.D',1
+model.004.00.pdb,1
+ u'GLU 1030.B',1
+model.004.10.pdb,1
+u'ARG 743.A',1
+model.004.11.pdb,1
+u'HIS 976.B',1
+ u'PRO 977.B',1
+ u'GLU 978.B',1
+ u'ALA 979.B',1
+ u'PRO 1310.C',1
+u'ASP 1309.C',1
+ u'ARG 994.B',1
+ u'ASP 1309.C',1
+ u'MET 1657.C',1
+ u'LYS 2481.D',1
+ u'ASP 2459.D',1
+ u'PRO 1176.B',1
+model.004.13.pdb,1
+u'LYS 808.A',1
+ u'ILE 812.A',1
+,1
+model.004.14.pdb,1
+u'VAL 2329.D',1
+model.004.15.pdb,1
+u'ASP 813.A',1
+ u'VAL 821.A',1
+ u'VAL 522.A',1
+ u'ASP 525.A',1
+ u'PHE 1507.C',1
+ u'PHE 737.A',1
+ u'ILE 739.A',1
+model.004.16.pdb,1
+u'ALA 2334.D',1
+model.004.17.pdb,1
+u'ARG 1601.C',1
+ u'ARG 1501.C',1
+ u'ILE 1603.C',1
+ u'GLY 1604.C',1
+ u'PHE 1605.C',1
+ u'PRO 1606.C',1
+ u'ALA 1607.C',1
+ u'GLN 1461.C',1
+model.004.12.pdb,1
+ u'GLU 523.A',1
+ u'GLU 2460.D',1
+ u'LYS 1171.B',1
+ u'GLU 274.A',1
+ u'ALA 2463.D',1
+ u'ARG 2464.D',1
+ u'ALA 2473.D',1
+ u'GLU 1504.C',1
+ u'ALA 2474.D',1
+ u'THR 2475.D',1
+ u'THR 2476.D',1
+ u'GLU 2477.D',1
+ u'LYS 237.A',1
+ u'ARG 2457.D',1
+ u'ASN 1509.C',1
+model.004.18.pdb,1
+u'LYS 1396.C',1
+ u'ASP 1649.C',1
+ u'LEU 1398.C',1
+ u'THR 1650.C',1
+ u'ASP 1399.C',1
+ u'ALA 1652.C',1
+ u'ASP 1653.C',1
+ u'LYS 1402.C',1
+ u'ARG 1654.C',1
+ u'PHE 1656.C',1
+ u'LYS 1623.C',1
+ u'GLU 1508.C',1
+ u'THR 1421.C',1
+ u'GLU 1689.D',1
+ u'VAL 1463.C',1
+ u'PHE 2373.D',1
+ u'ASN 2375.D',1
+model.004.19.pdb,1
+ u'ARG 1601.C',1
+ u'LEU 2376.D',1
+ u'THR 1610.C',1
+ u'ARG 1598.C',1
+ u'LYS 2489.D',1
+ u'GLU 2486.D',1
+ u'ILE 2468.D',1
+ u'ILE 2469.D',1
+u'ASP 702.A',1
+ u'PRO 701.A',1
+ u'PRO 1585.C',1
+model.004.21.pdb,1
+ u'LYS 907.B',1
+ u'ILE 784.A',1
+ u'MET 903.B',1
+ u'VAL 2073.D',1
+ u'GLN 905.B',1
+ u'THR 1056.B',1
+ u'PHE 906.B',1
+ u'GLN 1667.C',1
+ u'PRO 1058.B',1
+ u'TYR 1053.B',1
+ u'TYR 908.B',1
+ u'GLU 2374.D',1
+u'GLU 2370.D',1
+ u'HIS 1060.B',1
+model.004.20.pdb,1
+ u'ALA 1199.B',1
+ u'LYS 1674.C',1
+ u'LEU 1669.C',1
+ u'SER 1671.C',1
+ u'LEU 1583.C',1
+ u'ARG 783.A',1
+ u'THR 1201.B',1
+ u'THR 1200.B',1
+u'THR 647.A',1
+ u'GLU 802.A',1
+ u'ALA 1198.B',1
+ u'ALA 1582.C',1
+ u'VAL 1670.C',1
+ u'HIS 1581.C',1
+ u'LEU 806.A',1
+ u'LYS 1580.C',1
+ u'ARG 1192.B',1
+ u'ILE 1193.B',1
+ u'LYS 1579.C',1
+ u'ILE 2423.D',1
+ u'PHE 1584.C',1
+model.004.22.pdb,1
+ u'HIS 2422.D',1
+ u'GLN 2503.D',1
+ u'GLY 2502.D',1
+ u'GLU 2072.D',1
+ u'ILE 1061.B',1
+ u'LYS 1233.B',1
+ u'LEU 692.A',1
+model.004.23.pdb,1
+u'TYR 2328.D',1
+ u'GLN 2327.D',1
+model.004.24.pdb,1
+u'GLN 643.A',1
+ u'ALA 520.A',1
+model.004.25.pdb,1
+u'ARG 2388.D',1
+model.004.26.pdb,1
+u'THR 1012.B',1
+ u'LYS 2075.D',1
+ u'GLY 1108.B',1
+ u'ALA 2076.D',1
+ u'GLN 2074.D',1
+ u'LEU 1106.B',1
+ u'THR 1013.B',1
+ u'THR 1107.B',1
+ u'VAL 1057.B',1
+ u'ARG 1113.B',1
+ u'ALA 1059.B',1
+ u'ASP 900.B',1
+ u'PRO 1668.C',1
+file,1
+ u'THR 1662.C',1
+ u'PHE 950.B',1
+ u'LYS 805.A',1
+ u'ASN 691.A',1
+model.004.27.pdb,1
+ u'GLU 690.A',1
+u'VAL 1261.B',1
+ u'VAL 1238.B',1
+ u'ASP 501.A',1
+ u'GLY 983.B',1
+ u'LYS 985.B',1
+ u'ALA 1237.B',1
+ u'PHE 1146.B',1
+ u'ARG 1245.B',1
+ u'GLU 1145.B',1
+model.004.28.pdb,1
+u'HIS 2422.D',1
+model.004.29.pdb,1
+u'ILE 3.A',1
+ u'ARG 153.A',1
+ u'PRO 57.A',1
+ u'GLU 5.A',1
+ u'LYS 60.A',1
+ u'THR 1055.B',1
+ u'GLY 902.B',1
+ u'ILE 785.A',1
+ u'PRO 901.B',1
+ u'GLY 786.A',1
+ u'PHE 787.A',1
+ u'PRO 788.A',1
+ u'PHE 689.A',1
+ u'ASN 6.A',1
