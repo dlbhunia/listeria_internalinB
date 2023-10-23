@@ -55,5 +55,5 @@ To use this file:
   c.	Open Spyder
   d.	Value_counts_example.py
   e.	In the section labeled “# In[RUN THE CODE]” change the file paths to the desired locations. 
-  i.	path_in is where the file generated from close_residues.py is located
-ii.	frequency.to_csv should be set to where you want the output files to export. 
+    i.	path_in is where the file generated from close_residues.py is located
+    ii.	frequency.to_csv should be set to where you want the output files to export. 
