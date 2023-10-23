@@ -1,6 +1,6 @@
 # Cell-surface anchoring of Listeria adhesion protein on L. monocytogenes is fastened by internalin B for pathogenesis
 
-![alt text] (https://github.com/dlbhunia/listeria_internalinB/blob/main/read_me_picture.png)
+![alt text](https://github.com/dlbhunia/listeria_internalinB/blob/main/read_me_picture.png)
 
 This repository contains example data files and the code that was used to analyze them, originally presented in (Liu et al., 2023). There are two separate folders that can be used to analyze results from ClusPRO and the MD trajectory file. 
 
