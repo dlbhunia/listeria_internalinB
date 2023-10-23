@@ -13,8 +13,6 @@ from chimera import selection
 # define the location and output file name
 outf = open(r'PATH\TO\example.txt','w')
 
-#outf = open(r'C:\Users\hhelmick\Desktop\gromacs\dongqi\STAR_METHODS\output\example.txt','w')
-
 # define the open model as the model of interest
 m = openModels.list(modelTypes=[Molecule])[0]
 
