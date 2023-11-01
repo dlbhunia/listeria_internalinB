@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # In[READ AND CLEAN THE DATA]
 
 # known simulation time from the original
-simulation_total_time = 208 #ns
+simulation_total_time = 201 #ns
 # number of frames that is opened in Chimera
 frames = 6403
 
